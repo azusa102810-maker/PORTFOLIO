@@ -1,0 +1,6 @@
+{
+  "name": "3D Developer Portfolio",
+  "description": "Interactive 3D developer portfolio replication inspired by Adrian Hajdin with real-time 3D island, flying plane, reactive fox, audio synthesizer, and multi-page showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
